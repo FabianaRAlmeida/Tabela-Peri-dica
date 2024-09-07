@@ -1,4 +1,3 @@
-```markdown
 ## **README descontraído para o seu projeto de Tabela Periódica**
 
 ### **Tabela Periódica Interativa: Descubra o Mundo dos Elementos!** ⚛️
@@ -55,4 +54,3 @@ Este projeto é apenas para fins educacionais e não deve ser utilizado como fon
 * **Chamada para ação:** Incentive os usuários a contribuírem, fazerem fork do projeto ou entrarem em contato.
 
 **Com este README, você terá um guia claro e divertido para o seu projeto, além de atrair a atenção de outros desenvolvedores e entusiastas da química!**
-```
